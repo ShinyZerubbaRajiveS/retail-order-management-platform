@@ -1,0 +1,6 @@
+[
+  "test_app.py::test_health",
+  "test_app.py::test_home",
+  "test_app.py::test_inventory",
+  "test_app.py::test_order_status"
+]
